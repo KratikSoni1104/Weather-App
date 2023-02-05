@@ -7,3 +7,5 @@ This project provides real-time weather information for any location around the 
 # Resources Used
  Open Weather Maps API: For getting the weather details
  
+# Link
+https://kratiksoni1104.github.io/Weather-App/
